@@ -8,8 +8,8 @@ This tool is open source and under the MIT license, which is a permissive licens
 To contribute, read CONTRIBUTING.md.
 
 Quick Info:
-Project Name: CHICKEN Web Dev Accessibility Tool
-Installation Instructions: Download this repository and run --build once the codebase is present.
-Usage examples: You are developing a website. You want to make sure it is accessible before publishing it. You run this tool.
-Project status: Fake
-Contact Info: ChickenChickenChicken@chickenmail.com
+<br>Project Name: CHICKEN Web Dev Accessibility Tool
+<br>Installation Instructions: Download this repository and run --build once the codebase is present.
+<br>Usage examples: You are developing a website. You want to make sure it is accessible before publishing it. You run this tool.
+<br>Project status: Fake
+<br>Contact Info: ChickenChickenChicken@chickenmail.com
