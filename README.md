@@ -6,3 +6,10 @@ A developer tool that scans local HTML, CSS, and JavaScript code to identify acc
 This tool is open source and under the MIT license, which is a permissive license allowing use for any purpose as long as the original copyright notice and MIT license is included in any copies.
 
 To contribute, read CONTRIBUTING.md.
+
+Quick Info:
+Project Name: CHICKEN Web Dev Accessibility Tool
+Installation Instructions: Download this repository and run --build once the codebase is present.
+Usage examples: You are developing a website. You want to make sure it is accessible before publishing it. You run this tool.
+Project status: Fake
+Contact Info: ChickenChickenChicken@chickenmail.com
